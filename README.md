@@ -3,7 +3,7 @@
 <img align="right" alt="chill" width="400" src="https://media3.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=6c09b9526ini9bev2ox26qjxt70xrkdgbk8xh163pssawlac&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz5420&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz5420" /> </p>
 
-- 🔭 I’m currently working on **node.js**
+- 🔭 I’m currently working on **Unity && ASp.net**
 
 - 🌱 I’m currently learning **ASP.Net**
 
